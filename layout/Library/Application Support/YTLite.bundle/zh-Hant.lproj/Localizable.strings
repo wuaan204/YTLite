@@ -250,6 +250,8 @@
 "PreserveSpeedDesc" = "手勢完成後保持調整後的速度";
 "SeekAnywhere" = "滑動快轉/倒轉";
 "SeekAnywhereDesc" = "允許透過左右滑動來控制播放進度";
+"SeekAnywhereFeed" = "Seek in feed player";
+"SeekAnywhereFeedDesc" = "Swipe left or right on feed videos to seek.";
 "SeekMethod" = "快轉/倒轉方式";
 "SeekMethodDesc" = "獨立:可以在整部影片內自由快速滑動(取決於快轉/倒轉靈敏度)\n\n基於影片長度:滑動進度取決於影片時間長度和快轉/倒轉靈敏度。這對於長時間影片很有幫助，可以防止滑動時跳過大部分的影片內容。";
 "Independent" = "獨立";
@@ -404,6 +406,9 @@
 
 "StartupAnimation" = "啟動動畫";
 "StartupAnimationDesc" = "顯示YouTube開啟時的載入動畫";
+"SelectCustomAnimation" = "Select custom animation";
+"VideoTooLong" = "Video must not exceed 10 seconds";
+"MediaNotFound" = "Media not found";
 
 "InterfaceStyle" = "介面風格";
 
@@ -590,7 +595,6 @@
 "Polish" = "波蘭語在地化";
 
 "OpenSourceLibs" = "開源函式庫";
-"SupporterWall" = "支持者";
 
 "Preferences" = "%@ 偏好設定";
 "ManagePreferences" = "偏好設定管理";
@@ -726,19 +730,3 @@
 "Conflicts.CloseYT" = "關閉YouTube";
 
 "DonationReminder" = "您的支持有助於讓YouTube Plus變得更好。\n\n你可以在YouTube Plus的設定裡面，選擇捐款或關閉這些通知。謝謝你💜";
-
-/* Old localizations (commented out for reference)
-"ExtraSpeedOptions" = "額外的播放速度選項";
-"ExtraSpeedOptionsDesc" = "在播放速度選單添加更多選項";
-"CastingErrorTitle" = "稍等一下...";
-"CastingErrorMessage" = "您會看到此訊息，很可能是因為您的憑證沒有多點傳播 (Multicast) 權限";
-"CastingAction" = "設定";
-"OpenSettings" = "開啟設定";
-"WhatIsMulticast?" = "什麼是多點傳播 (Multicast)？";
-"NoYTLogo" = "移除YouTube圖示";
-"NoYTLogoDesc" = "移除在左上方導覽列的YouTube圖示";
-"PremiumYTLogo" = "YouTube Premium標誌";
-"PremiumYTLogoDesc" = "左上方導覽列設定為YouTube Premium標誌";
-"SpeedLocation" = "觸發位置";
-"TabIsHidden" = "無法將隱藏的標籤頁選為啟動頁面";
-"TabIsStartupTab" = "選擇為啟動頁面的標籤，無法隱藏";
